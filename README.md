@@ -9,3 +9,5 @@
 6. Follow the instructions responded by the bot, type in any word or sentence into the chat followed by a = <language_code>
   6b. If you need help, type /help
 7. The bot wil respond with the translation with the proper language code.
+
+![image](https://user-images.githubusercontent.com/91503688/203902497-17a5f0f2-a102-44b9-a5de-bbe2a0c6e5b4.png)
